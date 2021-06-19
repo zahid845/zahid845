@@ -10,7 +10,7 @@
 
 * 👯  I’m looking to collaborate on projects made with SwiftUI.
 
-* 💬  Ask me about abstractions, Relational DBs, TypeScript, Django and ofc Special Relativity.
+<!-- * 💬  Ask me about abstractions, Relational DBs, TypeScript, Django and ofc Special Relativity. -->
 
 * 📫  How to reach me: https://zahidnazir.com
 
